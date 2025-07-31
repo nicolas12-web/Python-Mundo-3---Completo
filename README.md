@@ -1,3 +1,17 @@
 # Python Mundo 3 - Completo
-Olá! Me chamo Nicolas e estou disponibilizando aqui as minhas respostas dos exercícios do curso de Python, ministrado pelo talentoso professor Gustavo Guanabara. Quero deixar claro que as minhas soluções não estão focadas em performance, otimização ou velocidade de execução, mas sim na compreensão e assimilação dos conceitos ensinados ao longo do curso. Meu objetivo foi aprender de forma sólida, entendendo o "porquê" por trás de cada linha de código. Compartilho esse material com muita satisfação, pois tive uma experiência incrível aprendendo com o curso.
-Espero que essas respostas possam ajudar outros estudantes a reforçarem seu entendimento e seguirem firmes nessa jornada com a linguagem Python.
+🐍 Resoluções dos Exercícios do Curso de Python – Gustavo Guanabara
+Olá! Me chamo Nicolas e estou disponibilizando aqui as minhas soluções para os exercícios do curso de Python, ministrado pelo talentoso professor Gustavo Guanabara. 👨‍🏫💻
+
+⚠️ Aviso importante:
+Minhas respostas não estão focadas em performance, otimização ou velocidade de execução.
+O foco principal foi compreender cada conceito ensinado ao longo do curso. 📚🧠
+
+🎯 Objetivo
+Meu objetivo com esse repositório foi aprender de forma sólida, entendendo o "porquê" por trás de cada linha de código.
+
+💬 Por que estou compartilhando?
+Tive uma experiência incrível aprendendo com o curso e quero, com esse material, ajudar outros estudantes que também estão iniciando com a linguagem Python. 🚀🐍
+
+Espero que essas resoluções ajudem você a reforçar seu entendimento e seguir firme nessa jornada! 💪📈
+
+
